@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Group26_Inclass07</string>
+    <string name="Limit">Limit:</string>
+    <string name="search">Search</string>
+    <string name="sortby" translatable="false" >Sort By:</string>
+    <string name="rating">Track Rating</string>
+    <string name="artist">Artist Rating</string>
+    <string name="result">Search Results</string>
+    <string name="track">Track:</string>
+    <string name="artista">Artist:</string>
+</resources>
